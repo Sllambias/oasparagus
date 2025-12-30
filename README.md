@@ -32,7 +32,7 @@ To install Asparagus on Gefion, please refer to [Installing Asparagus environmen
 
 ## 1. Preprocessing 
 
-See the [asparagus_preprocessing](https://github.com/Sllambias/asparagus_preprocessing) repository.
+See the [asparagus_preprocessing](https://github.com/Sllambias/oasparagus_preprocessing) repository.
 
 ## 2. Training
 Asparagus uses hydra configs (see [Hydra](https://hydra.cc/docs/intro/)) to set up all training runs. To use the default setup 3 args are required.
